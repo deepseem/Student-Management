@@ -1,3 +1,4 @@
+/*
 package com.example.studentmanagement.security;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
@@ -61,3 +62,4 @@ public class JwtFilter extends OncePerRequestFilter {
         filterChain.doFilter(request, response);
     }
 }
+*/

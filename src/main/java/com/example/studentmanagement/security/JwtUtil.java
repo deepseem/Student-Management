@@ -1,3 +1,4 @@
+/*
 package com.example.studentmanagement.security;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.security.Keys;
@@ -45,3 +46,4 @@ public class JwtUtil {
     }
 
 }
+*/
